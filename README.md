@@ -14,5 +14,11 @@ Used SQLAlchemy to do the following:
 
 ![dailytobs](Images/dailytobs.png)
 
+- designed queries for daily norms &amp; trip average temperature
+
+![dailynorms](Images/dailynorms.png)
+
+![tripavgtemp](Images/tripavgtemp.png)
+
 Also created a Flask API based on teh queries from above
 - used 'jsonify' to convert data into valid JSON response objects
